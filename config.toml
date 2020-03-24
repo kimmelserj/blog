@@ -1,4 +1,4 @@
-baseURL = "http://kimmelserj.ru/"
+baseURL = "https://kimmelserj.ru/"
 languageCode = "ru-ru"
 title = "Киммель Сергей"
 theme = "hugo-paper"
